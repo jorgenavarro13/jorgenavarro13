@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Jorge Navarro 👋 ¡Bienvenido a mi perfil!</h1>
 
 <div align="center">
-    <img src="https://conecta.tec.mx/sites/default/files/inline-images/jorge-lider-del-manana-gen-once-conecta.webp" height=250 alt="Developer working animation" />
+    <img src="https://media.licdn.com/dms/image/v2/D4D16AQHgo-tI8wLjyQ/profile-displaybackgroundimage-shrink_350_1400/B4DZZzW0kIH4AY-/0/1745692085132?e=1762387200&v=beta&t=mvhCsEfIqfKUS6EOKXwASP9JTye5YXCAD26jenBIJpk" height=250 alt="Developer working animation" />
 </div>
 
 <h4 align="center">
