@@ -1,8 +1,8 @@
 <h1 align="center">Hola, soy Jorge Navarro 👋 ¡Bienvenido a mi perfil!</h1>
 
-<div align="center">
-    <img src="https://media.licdn.com/dms/image/v2/D4D16AQHgo-tI8wLjyQ/profile-displaybackgroundimage-shrink_350_1400/B4DZZzW0kIH4AY-/0/1745692085132?e=1762387200&v=beta&t=mvhCsEfIqfKUS6EOKXwASP9JTye5YXCAD26jenBIJpk" height=250 alt="Developer working animation" />
-</div>
+<p align="center">
+  <a href="https://github.com/jorgenavarro13/jorgenavarro13/"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=750&height=100&lines=Jorge+Arturo+Montiel+Navarro...;Computer+Science+Student+at+Tec+MTY+&hearts;++;Active+Learner/Researcher,;Love+to+learn+new+stuffs..%3C3"></a>
+</p>
 
 <h4 align="center">
     <b><a href="https://github.com/jorgenavarro13?tab=repositories">Mis Proyectos</a></b>
@@ -62,10 +62,13 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo:
 | <img src="https://github-readme-activity-graph.vercel.app/graph?username=jorgenavarro13&theme=dark" alt="Gráfico de actividad" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgenavarro13&theme=dark" alt="Racha de contribuciones" /> |
 
 ---
-
-
-
-
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.leetcode.svg" alt=""></img>
+      <img src="https://leetcode-stats-six.vercel.app/api?username=https://leetcode.com/u/JorgeNavarro/">
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
 
 
 ###
