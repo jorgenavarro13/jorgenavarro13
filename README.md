@@ -62,16 +62,7 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo:
 | <img src="https://github-readme-activity-graph.vercel.app/graph?username=jorgenavarro13&theme=dark" alt="Gráfico de actividad" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgenavarro13&theme=dark" alt="Racha de contribuciones" /> |
 
 ---
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.leetcode.svg" alt=""></img>
-      <img src="https://leetcode-stats-six.vercel.app/api?username=https://leetcode.com/u/JorgeNavarro/">
-      <img width="900" height="1" alt="">
-    </td>
-  </tr>
 
-
-###
 
 
 
