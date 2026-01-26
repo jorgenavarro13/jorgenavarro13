@@ -18,9 +18,12 @@
 
 ## 🚀 Introducción
 
-Soy un desarrollador enfocado en el **Desarrollo Web** y la automatización. Me apasiona construir soluciones eficientes y escalables. Tengo experiencia trabajando con tecnologías frontend como **JavaScript, HTML, CSS** y frameworks como **Bootstrap**, con un enfoque práctico en la **Manipulación del DOM** y la lógica de negocio.
+Soy un desarrollador enfocado en el **Desarrollo Web** y fullstack. Me apasiona construir soluciones eficientes y escalables. Tengo experiencia trabajando con tecnologías frontend como **React, JavaScript, HTML, CSS**, backend como **Node.js** y frameworks como **NextJS**.
 
-Actualmente, estoy ampliando mis conocimientos sobre bases de datos y buscando oportunidades de internships.
+Sigo ampliando mis habilidades y conocimientos como ingeniero fullstack, explorando nuevas tecnologías y mejores prácticas en el desarrollo de software.
+
+## 🛠 Software engineer intern at John Deere
+Actualmente, estoy trabajando como pasante de ingeniería de software en John Deere.
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -32,9 +35,19 @@ Actualmente, estoy ampliando mis conocimientos sobre bases de datos y buscando o
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
 
----
+
+</div>
 
 ## 💻 Mi Pila Tecnológica (Tech Stack)
 
@@ -42,9 +55,9 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo:
 
 | Categoría | Tecnologías |
 | :--- | :--- |
-| **Frontend** | JavaScript (ES6+), HTML5, CSS3, Bootstrap |
-| **Backend / Scripting** | Python (usado en proyectos de automatización/gestión) |
-| **Conceptos Clave** | Manipulación del DOM, Event Listeners, Estructura de Datos Simples. |
+| **Frontend** | JavaScript (ES6+), HTML5, CSS3, React |
+| **Backend / Scripting** | Python, Node.js, C++ |
+| **Bases de Datos** | MySQL|
 | **Herramientas** | Git, GitHub |
 
 ---
@@ -73,7 +86,7 @@ Conéctate conmigo y sigamos construyendo el futuro del *software* juntos:
 
 <div align="left">
     
-  <a href="https://twitter.com/tu_usuario_twitter" target="_blank">
+  <a href="https://www.instagram.com/jorge.arturo_mont/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 
