@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Jorge Navarro 👋 ¡Bienvenido a mi perfil!</h1>
 
 <p align="center">
-  <a href="https://github.com/jorgenavarro13/jorgenavarro13/"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=750&height=100&lines=Jorge+Arturo+Montiel+Navarro...;Computer+Science+Student+at+Tec+MTY+&hearts;++;Active+Learner/Researcher,;Love+to+learn+new+stuffs..%3C3"></a>
+  <a href="https://github.com/jorgenavarro13/jorgenavarro13/"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=750&height=100&lines=Jorge+Navarro...;CS+Student+at+Tec+MTY+&hearts;++;Active+Learner/Researcher,;Love+to+learn+new+stuffs..%3C3"></a>
 </p>
 
 <h4 align="center">
