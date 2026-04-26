@@ -22,7 +22,7 @@
 
 Soy un desarrollador fullstack enfocado en **Desarrollo Web**, **Backend** y **Sistemas Embebidos**. Me apasiona construir soluciones eficientes y escalables, desde interfaces modernas con **React** y **TailwindCSS**, hasta sistemas embebidos en **C++** y arquitecturas backend con **Node.js**.
 
-Actualmente ampliando mis habilidades en desarrollo de backend, cloud y CI/CD y desarrollo de software con prácticas profesionales en la industria.
+Actualmente ampliando mis habilidades en desarrollo de backend, cloud, CI/CD y desarrollo de software con prácticas profesionales en la industria.
 
 Me encanta la programación competitiva y en general programar, si algún día quieres hablar de algo relacionado a eso, o simplemente quieres platicar, no dudes en contactarme. :)
 
@@ -136,6 +136,16 @@ Me encanta la programación competitiva y en general programar, si algún día q
 </p>
 
 [![LARC Repo](https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jorgenavarro13/line_follower_LARC_Competition_2025)
+
+---
+
+## 🐍 Serpiente de Contribuciones
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jorgenavarro13/jorgenavarro13/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jorgenavarro13/jorgenavarro13/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/jorgenavarro13/jorgenavarro13/output/github-snake.svg" />
+</picture>
 
 ---
 
