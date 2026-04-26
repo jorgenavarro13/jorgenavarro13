@@ -1,7 +1,9 @@
-<h1 align="center">Hola, soy Jorge Navarro 👋 ¡Bienvenido a mi perfil!</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jorge%20Navarro&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20%7C%20Backend%20%7C%20Systems%20%7C%20Tec%20MTY&descAlignY=58&descSize=17"/>
+
+<h1 align="center"> 👋 ¡Bienvenido a mi perfil!</h1>
 
 <p align="center">
-  <a href="https://github.com/jorgenavarro13/jorgenavarro13/"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=750&height=100&lines=Jorge+Navarro...;CS+Student+at+Tec+MTY+&hearts;++;Active+Learner/Researcher,;Love+to+learn+new+stuffs..%3C3"></a>
+  <a href="https://github.com/jorgenavarro13/jorgenavarro13/"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=750&height=100&lines=CS+Student+at+Tec+MTY+&hearts;++;Active+Learner/Researcher,;Love+to+learn+new+stuffs..;ICPC;%3C3"></a>
 </p>
 
 <h4 align="center">
@@ -36,6 +38,10 @@ Me encanta la programación competitiva y en general programar, si algún día q
 ---
 
 ## 🛠 Tech Stack <a name="tech-stack"></a>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,py,cpp,cs,html,css,mysql,postgres,git,github,linux,arduino,jenkins&perline=10" />
+</p>
 
 ### Lenguajes
 
@@ -161,3 +167,11 @@ Me encanta la programación competitiva y en general programar, si algún día q
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jorgenavarro13&label=Visitas+al+perfil&color=0e75b6&style=flat" alt="Contador de visitas"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
