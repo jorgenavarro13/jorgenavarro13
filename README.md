@@ -160,6 +160,7 @@ Me encanta la programación competitiva y en general programar, si algún día q
 | <img src="https://github-readme-activity-graph.vercel.app/graph?username=jorgenavarro13&theme=dark" alt="Gráfico de actividad" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgenavarro13&theme=dark" alt="Racha de contribuciones" /> |
 
 ---
+![Leetcode Stats](https://leetcard.jacoblin.cool/JorgeNavarro)
 
 ## 📬 Contacto
 
@@ -185,3 +186,4 @@ Me encanta la programación competitiva y en general programar, si algún día q
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
