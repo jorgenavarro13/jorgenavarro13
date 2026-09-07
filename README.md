@@ -3,7 +3,7 @@
 <h1 align="center"> 👋 ¡Bienvenido a mi perfil!</h1>
 
 <p align="center">
-  <a href="https://github.com/jorgenavarro13/jorgenavarro13/"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=750&height=100&lines=CS+Student+at+Tec+MTY+&hearts;++;Active+Learner/Researcher,;Love+to+learn+new+stuffs..;ICPC;%3C3"></a>
+  <a href="https://github.com/jorgenavarro13/jorgenavarro13/"><img src="https://readme-typing-svg.demolab.com/?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=750&height=100&lines=CS+Student+at+Tec+MTY+&hearts;++;Active+Learner/Researcher,;Love+to+learn+new+stuffs..;ICPC;%3C3"></a>
 </p>
 
 <h4 align="center">
@@ -151,13 +151,21 @@ Me encanta la programación competitiva y en general programar, si algún día q
 
 ## 📈 Mi Actividad en GitHub
 
-| Estadísticas Generales | Lenguajes Más Usados |
-| :--- | :--- |
-| <img src="https://github-readme-stats.vercel.app/api?username=jorgenavarro13&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub de Jorge Navarro" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgenavarro13&layout=compact&theme=vue-dark&hide_border=true" alt="Lenguajes de Jorge Navarro" /> |
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jorgenavarro13&theme=vue_dark" alt="Resumen del perfil de GitHub de Jorge Navarro" width="100%" />
+</p>
 
-| Activity Graph | Streak Stats |
-| :--- | :--- |
-| <img src="https://github-readme-activity-graph.vercel.app/graph?username=jorgenavarro13&theme=dark" alt="Gráfico de actividad" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgenavarro13&theme=dark" alt="Racha de contribuciones" /> |
+| Estadísticas Generales | Racha de Contribuciones |
+| :---: | :---: |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jorgenavarro13&theme=vue_dark" alt="Estadísticas de GitHub de Jorge Navarro" /> | <img src="https://streak-stats.demolab.com/?user=jorgenavarro13&theme=dark&hide_border=true" alt="Racha de contribuciones de Jorge Navarro" /> |
+
+| Lenguajes por Repositorio | Lenguajes Más Usados (por commits) |
+| :---: | :---: |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorgenavarro13&theme=vue_dark" alt="Lenguajes por repositorio de Jorge Navarro" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorgenavarro13&theme=vue_dark" alt="Lenguajes más usados por commits de Jorge Navarro" /> |
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jorgenavarro13&theme=vue_dark&utcOffset=-6" alt="Horario productivo de Jorge Navarro (UTC-6, Monterrey)" width="65%" />
+</p>
 
 ---
 ![Leetcode Stats](https://leetcard.jacoblin.cool/JorgeNavarro)
