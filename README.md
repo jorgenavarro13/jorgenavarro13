@@ -28,7 +28,7 @@ Me encanta la programación competitiva y en general programar, si algún día q
 
 ---
 
-## 💼 Software Engineer Intern @ John Deere
+## 💼 Full-Tim Software Engineer @ John Deere
 
 <p>
   <img src="https://img.shields.io/badge/John_Deere-367C2B?style=for-the-badge&logo=john-deere&logoColor=white" alt="John Deere"/>
